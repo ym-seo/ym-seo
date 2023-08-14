@@ -12,7 +12,7 @@
 <a href="https://www.oracle.com/legal/logos.html" target="_blank"><img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>
 <a href="https://www.mysql.com/about/legal/logos.html" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ym-seo)](https://github.com/anuraghazra/github-readme-stats)
+[![Youngmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ym-seo&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/jiholee0/github-readme-stats)
 
 
 <!--
